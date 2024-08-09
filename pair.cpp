@@ -1,5 +1,5 @@
 /*
- * Filename: sort_points.cpp
+ * Filename: pair.cpp
  * Description: This program demonstrates the usage of the `pair` container and the `sort` function from the C++ Standard Template Library (STL).
  *              The program reads 5 pairs of integers from the user, stores them in an array of `pair<int, int>`, sorts the array,
  *              and then outputs the sorted pairs.
